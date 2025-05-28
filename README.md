@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamed 
 - 👀 I’m interested in coding and dev stuff
-- 🌱 I’m currently python
+- 🌱 I’m currently learning python
 - 📫 How to reach me on my email m.hammouch.eng@gmail.com
 
 <!---
